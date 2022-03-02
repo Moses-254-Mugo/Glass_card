@@ -11,11 +11,7 @@ Simple landing page of Glassmorphism card Design
 
 
 ## Screenshot
-![Getting Startted]()
-
-![Getting Startted]()
-
-![Getting Startted]()
+![Getting Startted](assets/images/screenshot.png)
 
 
 ## Techonologies Used
