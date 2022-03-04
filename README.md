@@ -1,4 +1,4 @@
-# Glassmorphism card Design
+# Glass card Design
 
 ## Contributors
 * Fee free to comment, critique or even submit a pull request.
